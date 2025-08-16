@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Date Range Aggregator (Bookings)\bin\Debug\Date Range Aggregator (Bookings).exe.config
+C:\Users\HP\source\repos\Date Range Aggregator (Bookings)\bin\Debug\Date Range Aggregator (Bookings).exe
+C:\Users\HP\source\repos\Date Range Aggregator (Bookings)\bin\Debug\Date Range Aggregator (Bookings).pdb
+C:\Users\HP\source\repos\Date Range Aggregator (Bookings)\obj\Debug\Date Range Aggregator (Bookings).csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Date Range Aggregator (Bookings)\obj\Debug\Date Range Aggregator (Bookings).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Date Range Aggregator (Bookings)\obj\Debug\Date Range Aggregator (Bookings).exe
+C:\Users\HP\source\repos\Date Range Aggregator (Bookings)\obj\Debug\Date Range Aggregator (Bookings).pdb
